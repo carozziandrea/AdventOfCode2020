@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Documenti\\Advent of Code\\2020\\Day07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA227860-0267-4B5F-B598-0B49A94ED22A}|Day07.vcxproj|C:\\Users\\andre\\OneDrive\\Documenti\\Advent of Code\\2020\\Day07\\Day07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA227860-0267-4B5F-B598-0B49A94ED22A}|Day07.vcxproj|solutionrelative:Day07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA227860-0267-4B5F-B598-0B49A94ED22A}|Day07.vcxproj|C:\\Users\\andre\\OneDrive\\Documenti\\Advent of Code\\2020\\Day07\\Day07input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA227860-0267-4B5F-B598-0B49A94ED22A}|Day07.vcxproj|solutionrelative:Day07input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day07input.txt",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documenti\\Advent of Code\\2020\\Day07\\Day07input.txt",
+              "RelativeDocumentMoniker": "Day07input.txt",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documenti\\Advent of Code\\2020\\Day07\\Day07input.txt",
+              "RelativeToolTip": "Day07input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-25T13:08:14.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day07.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documenti\\Advent of Code\\2020\\Day07\\Day07.cpp",
+              "RelativeDocumentMoniker": "Day07.cpp",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documenti\\Advent of Code\\2020\\Day07\\Day07.cpp",
+              "RelativeToolTip": "Day07.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T13:07:47.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

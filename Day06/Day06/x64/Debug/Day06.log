@@ -1,0 +1,4 @@
+﻿  Day06.cpp
+C:\Users\andre\OneDrive\Documenti\Advent of Code\2020\Day06\Day06.cpp(45,36): warning C4267: '+=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\andre\OneDrive\Documenti\Advent of Code\2020\Day06\Day06.cpp(61,28): warning C4267: '+=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Day06.vcxproj -> C:\Users\andre\OneDrive\Documenti\Advent of Code\2020\Day06\x64\Debug\Day06.exe

@@ -1,0 +1,4 @@
+﻿  Day14.cpp
+C:\Users\andre\OneDrive\Documenti\Advent of Code\2020\Day14\Day14.cpp(26,14): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\andre\OneDrive\Documenti\Advent of Code\2020\Day14\Day14.cpp(72,56): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Day14.vcxproj -> C:\Users\andre\OneDrive\Documenti\Advent of Code\2020\Day14\x64\Debug\Day14.exe
